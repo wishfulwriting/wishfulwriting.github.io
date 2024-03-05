@@ -1,0 +1,24 @@
+body {
+    font-family: Georgia, serif;
+    background: slategray;
+    h1 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+    }
+    .button {
+        border: 2px solid black;
+        width: 300px;
+        color: none;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    
+    .button1 {background-color: #04AA6D;}
+    .button2 {background-color: #008cba;}
+}
