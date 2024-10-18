@@ -11,7 +11,8 @@ body {
     background-color: white;
     border: dashed;
     color: black;
-    padding: 15px 32px;
+    padding: 16px 32px;
+    margin: auto;
     text-align: center;
     text-decoration: none;
     display: block;
