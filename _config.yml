@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+author: Ian Moore
+summary: A Personal Site
+lang: en
+url: "https://wishfulwriting.github.io"
+baseurl: ""
+
+feed:
+  posts_limit: 20
+  
