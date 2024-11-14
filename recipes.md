@@ -2,12 +2,12 @@
 layout: default
 # Blog | Simple Jekyll
 header: Recipes
-summary: A few favorite recipes.
+summary: A few recipes I love.
 link: /recipes/
 ---
-
-{% for post in site.recipes %}
-  <p><a href="{{ post.url }}">{{ post.title }}</a><br>
-  {{ post.description }}<br>
-  {{ post.date | date_to_string }}</p>
+<h1>Recipes</h1>
+<ul>
+{% for item in site.recipes  %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
+</ul>

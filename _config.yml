@@ -8,8 +8,10 @@ lang: en
 url: "https://wishfulwriting.github.io"
 baseurl: ""
 
-include:
-- _recipes
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:title
 
 feed:
   posts_limit: 20
