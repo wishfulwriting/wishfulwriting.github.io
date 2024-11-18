@@ -7,7 +7,10 @@ link: /blog/
 ---
 
 {% for post in site.posts %}
-  <p><a href="{{ post.url }}">{{ post.title }}</a><br>
-  {{ post.description }}<br>
-  {{ post.date | date_to_string }}</p>
+  <article>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.summary }}<br>
+    <br>
+    {{ post.date | date_to_string }}</p>
+  </article>
 {% endfor %}

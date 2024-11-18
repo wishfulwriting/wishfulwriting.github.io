@@ -7,7 +7,7 @@ link: /recipes/
 ---
 <h1>Recipes</h1>
 <ul>
-{% for item in site.recipes  %}
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% for post in site.recipes  %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
