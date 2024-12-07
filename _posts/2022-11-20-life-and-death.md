@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Iron Maiden's A Matter of Life and Death"
+header: Blog
+summary: A perfectly imperfect latter-day Iron Maiden album.
+categories: [Music]
+link: /life-and-death/
+---
+# Iron Maiden's A Matter of Life and Death 
+Iron Maiden have never made a perfect record. *The Number of the Beast* (1982), *Piece of Mind* (1983), and *Powerslave* (1984) all routinely end up on lists of the greatest heavy metal albums of all time, but I think it would be fair to say that the highs that lift those albums to the top of those lists are matched by some real lows. *The Number of the Beast* is remembered for the title track and "Hallowed Be Thy Name," but it also has "Invaders," "Gangland," and "22 Acacia Avenue." *Piece of Mind* opens side 2 with "The Trooper", but "Quest for Fire" is perhaps one of the most embarrassing songs ever written. *Powerslave* has vocalist Bruce Dickinson's paean to fencing, "Flash of the Blade." Of the band's run of classic '80s records, it is 1988 concept record *Seventh Son of a Seventh Son* that comes closest to functioning as a really complete album — even "The Prophecy," the album's weakest track, features an inspired vocal performance — but the story is at best incoherent.
+
+After *Seventh Son*, Iron Maiden entered a real fallow period. The four records issued from 1990 to 1998 are dull affairs, with few highlights. Dickinson's departure from the band (and his subsequent replacement with Wolfsbane vocalist Blaze Bayley) didn't help matters. While 2000's *Brave New World* and 2003's *Dance of Death*, which saw Dickinson's return to the band, were real improvements over the '90s records, they functioned better as collections of tracks than truly coherent records. 2006's *A Matter of Life and Death* stands out from all the albums released after the bands '80s run, a coherent statement from a band well past its peak.
+
+This comes with one huge caveat, of course. Like those '80s records, *A Matter of Life and Death* contains a misstep, a track that ranks with the band's very worst. "Different World," which opens the record, is a pat rocker with a pat message. We're not so different, you and I. The track is at best a slog, which is particularly ironic considering that it is the only track on the record that clocks in at less than 5 minutes. 
+
+The rest of the album bears few similarities to the opener. Iron Maiden have frequently focused on war, death, and religion in its work. On *A Matter of Life and Death*, though, the band is laser-focused on these topics, delivering nine tracks that dwell at length on the horrors faced by soldiers on the ground, the hypocrisies of organized religion, and the dangers presented by weapons of mass destruction. These songs are beautifully and brutally effective, thunderous epics from a band willing to indulge in fantastic excess to get its point across. Throughout, the bands feels more confident than it had been even a few years before. Compare *A Matter of Life and Death* to its predecessor, *Dance of Death*. On *Dance of Death* the moments of real drama and excess are exceptions — much of the record feels aimed at rock radio. *A Matter of Life and Death*, on the other hand, leans into the drama, emphasizing tremendous power and glorious excess.
+
+The track that best exemplifies everything that makes *A Matter of Life and Death* so compelling is the closer, "The Legacy." A collaboration between Steve Harris and guitarist Janick Gers, "The Legacy" features Dickinson spitting venom at generals, at religious figures, at politicians, at anyone who sends soldiers to die in battle. Opening with a creeping guitar figure and hushed vocals (a pattern used across the album, though never more effectively than here), the song builds slowly, eventually erupting into slabs of guitar and one of Dickinson's most vitriolic and triumphant performances on record.
+
+On latter-day records, Iron Maiden have focused on what Harris refers to as a live sound. It leans dry, with fewer obvious production tricks and less digital sheen than many modern metal records. *A Matter of Life and Death* was the first Maiden record to lean into this sound, which was apparently the result of Harris enjoying the sound of the final mix in his car too much to allow the album to be fully mastered. The merits of this approach have been, and will continue to be, debated, but on "The Legacy" it works perfectly. The sound of the track is, for the most part, dry and heavy, right up until the bridge into the guitar breakdown at 4:45 in. There, the vocal melody jumps to the very top of Dickinson's range. To cover for the strain in his voice , the vocals are doubled. The effect serves not only to hide the strain, but also to place a greater emphasis on Dickinson's plea for a consideration of the effects war has on those left behind to salvage a future from the ruins:
+
+> Left to all our golden sons / 
+> All to pick up on the peace /
+> You could have given all of them /
+> A little chance... at least 
+> 
+> Take the world to a better place / 
+> Given them all just a little hope / 
+> Just think what a legacy /
+> You now... will leave
+
+After all the the thunder and violence of the earlier tracks, "The Legacy" asks what happens next. What comes when the fighting is done? The question invites the listener to re-engage with what came before, to contemplate what it might mean for the world. The song is stunning, but its greatest contribution might very well be that it re-contextualizes the rest of the record, pulling it together into one considered whole. (But not "Different World." That one is still pretty bad.)
+
+To date, *A Matter of Life and Death* has been followed by three albums: *The Final Frontier* (2010), *The Book of Souls* (2015), and *Senjutsu* (2021). Each of these records is longer than *A Matter of Life and Death*. *The Final Frontier* and *The Book of Souls* are more varied. *The Book of Souls* contains Iron Maiden's most ambitious song in "Empire of the Clouds," an 18-minute epic about the crash of the R101 airship. *Senjutsu* is perhaps the band's most self-consciously epic record, with four lengthy tracks written solely by Harris. Each one of these records, though, is defined by what came before. The dry sound of *A Matter of Life and Death*, once a departure, is a constant. The longer tracks follow the patterns established on *A Matter of Life and Death*, too: the quiet introduction is always followed by a crash into the body of the track. War? Religion? Those are still around, too. Again and again, Iron Maiden have returned to the themes and techniques that make *A Matter of Life and Death* so effective. They haven't bettered it yet. On that record, precious few mistakes were made. "Different World" could have been dropped, though. I hate that song.

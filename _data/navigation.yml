@@ -4,6 +4,8 @@
   link: /blog
 - name: Recipes
   link: /recipes
+- name: Categories
+  link: /categories
 - name: Now
   link: /now
 - name: Contact
