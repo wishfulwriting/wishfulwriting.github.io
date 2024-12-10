@@ -1,6 +1,6 @@
 ---
 layout: default
-# Blog | Simple Jekyll
+title: Recipes | Ian Moore
 header: Recipes
 summary: A few recipes I love.
 link: /recipes/

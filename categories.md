@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Categories | Ian Moore
 header: Categories
 link: /categories/
 ---

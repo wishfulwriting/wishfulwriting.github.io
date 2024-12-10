@@ -1,6 +1,6 @@
 ---
 layout: default
-# Blog | Simple Jekyll
+title: Blog | Ian Moore
 header: Blog
 summary: Where the magic happens - this is the blog!
 link: /blog/
