@@ -1,11 +1,11 @@
 ---
 title: Contact | Ian Moore
-header: Contact Ian Moore
+header: Contact
 summary: Contact Ian Moore
 link: /contact/
 layout: default
 ---
 
-# Contact ME!
+# How You Can Get In Touch
 
-Yes, me. 
+You can reach me on [Mastodon](https://mastodon.social/@wishfulwriting) or [Bluesky](https://bsky.app/profile/wishfulwriting.bsky.social). Not on those platforms? You can always [email me](mailto:hello@ianmoore.fyi).
