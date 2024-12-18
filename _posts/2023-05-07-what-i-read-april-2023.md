@@ -9,7 +9,7 @@ link: /what-i-read-april-2023/
 # What I Read In April 2023
 It’s early May in Duluth, which means that though our days are cold, they are very long, they light is beautiful, and the lake looks inviting. I have tried to get outside a little more, but the books keep coming anyway. I’m not sure what’s up next — I need to finish a collection of poetry by Joy Harjo before I can pick something else out — but I’m looking forward to whatever it is. In the meantime, I wish everyone pleasant weather, fresh air, and happy reading. 
 
-As always, you can say hi anytime — just leave a comment or hit the email link in the sidebar — or follow me on [The StoryGraph](https://app.thestorygraph.com/profile/wishfulwriting). As always, I’m happy to hear from you.
+As always, you can say hi anytime — just reach out through the links on the [contact page]({{ site.baseurl }}{% link contact.md %}) — or follow me on [The StoryGraph](https://app.thestorygraph.com/profile/wishfulwriting). As always, I’m happy to hear from you.
 
 ## The Book of the Month:
 ### *The Ladies of Grace Adieu and Other Stories*, by Susanna Clarke
