@@ -2,7 +2,7 @@
 layout: post
 title: "What I Read In March 2023" 
 header: Blog
-summary: My reading for March 2023
+summary: My reading for March 2023.
 categories: [Books]
 link: /what-i-read-march-2023/
 ---
